@@ -13,13 +13,12 @@ Basic Questions of every retailer : How much inventory should I carry?  Too much
 
 This is why short-term forecasting is so important in the retail and consumer goods industry.
 
-![Untitled (5)](https://user-images.githubusercontent.com/90629060/192090442-9e2de638-d8d3-45a6-a28b-3003d529d808.png)
 
 
 
 # ®️Retail Store Stock Inventory Analytics
    TECHNOLOGY : Data Analytics <br>
-   TEAM ID : PNT2022TMID39751
+   TEAM ID : PNT2022TMID48449
 
 # 🧑‍💻TEAM MEMBERS
  - Gowtham S
@@ -35,7 +34,6 @@ Inventory analysis helps you determine the right amount of stock to keep on-hand
  What is the purpose of store inventory?
 A store inventory is a record of all the items available for use in your daily business operations. The store inventory increases with purchases and decreases with sales or consumption. It is important to track changes in your inventory so you can evaluate business performance, set future plans or detect theft.
 # 🧑‍💻Technical Architecture:
- ![download](https://user-images.githubusercontent.com/72591359/190850546-9b1ba338-6a8a-4952-8afc-898e5faddd36.png)
  
  
 
