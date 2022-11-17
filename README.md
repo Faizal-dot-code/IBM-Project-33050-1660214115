@@ -24,10 +24,10 @@ This is why short-term forecasting is so important in the retail and consumer go
    TEAM ID : PNT2022TMID39751
 
 # 🧑‍💻TEAM MEMBERS
- - Magesh T
- - Ranjini S
- - Keerthivasan A
- - Anitha V
+ - Gowtham S
+ - Mohamed Fizal Rahman S
+ - Gurukarthikeyan M
+ - surya R
  
  # ♣️PROJECT DESCRIPTION
  This dataset contains a lot of historical sales data of a Brazilian top retailer
