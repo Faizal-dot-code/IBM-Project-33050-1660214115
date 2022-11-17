@@ -1,4 +1,12 @@
-# Retail Store Stock Inventory Analytics
+
+
+
+
+# ®️Retail Store Stock Inventory Analytics
+   TECHNOLOGY : Data Analytics <br>
+   TEAM ID : PNT2022TMID48449
+   
+   # Retail Store Stock Inventory Analytics
 
 <br>Retail inventory management is the process of ensuring you carry products that shoppers want, with neither too little nor too much on hand. By managing inventory, retailers meet customer demand without running out of stock or carrying excess supply. Inventory management is vital for retailers because the practice helps them increase profits.<br>
 
@@ -13,12 +21,6 @@ Basic Questions of every retailer : How much inventory should I carry?  Too much
 
 This is why short-term forecasting is so important in the retail and consumer goods industry.
 
-
-
-
-# ®️Retail Store Stock Inventory Analytics
-   TECHNOLOGY : Data Analytics <br>
-   TEAM ID : PNT2022TMID48449
 
 # 🧑‍💻TEAM MEMBERS
  - Gowtham S
